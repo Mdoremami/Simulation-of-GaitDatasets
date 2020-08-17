@@ -1,0 +1,19 @@
+Thesis title : Motion Capture Data Processing, Retrieval and Recognition by Zhao Wang
+
+
+
+Copyright Statement:
+
+This copy of the thesis has been supplied on condition that anyone who
+consults it is understood to recognise that its copyright rests with its
+author and due acknowledgement must always be made of the use of any
+material contained in, or derived from, this thesis.
+
+
+Additional explanations:
+I, Mahdi Dor Emami had just simulated the chapter 6 of this thesis for my own investigation and have not yet did any
+other research or projects to site this papre.
+
+I also used Spyder to write the codes. After all, the sectioning capability is a superior advantage rather than Sublime Text3.
+
+Best Regards
